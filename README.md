@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you want to contact me, you can reach me at [your-email@example.com].
+If you want to contact me, you can reach me at [niranjansinghhh16@gmail.com].
 
 ```
 
